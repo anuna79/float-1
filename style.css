@@ -7,12 +7,12 @@ body{
     height: 218px;
     background-color: #0500FF;
     float: right;
-    display: flex;
 }
 
 .box1{
     width: 218px;
     height: 218px;
     background-color: #FE0303;
+    float: left;
 }
 
